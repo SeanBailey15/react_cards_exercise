@@ -1,8 +1,37 @@
-# React + Vite
+# React Cards Exercise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+In this exercise, students gain experience refactoring logic in React components by writing custom React hooks to consolidate repetitive functionality.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Given a completed and functional application that displays two types of playing cards, students are instructed to consolidate the logic that controls flipping a card face up/down into a custom hook, and do the same with the logic for making the external API calls that retrieve the card data.
+
+## Installation
+
+My solution for this exercise will be found in the code itself, though the solution can be verified as functional if you would like to clone this repository and try it out for yourself. Follow these steps to get started:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/SeanBailey15/react_cards_exercise.git
+    ```
+
+2. Navigate into the directory:
+
+    ```bash
+    cd react_cards_exercise
+    ```
+
+3. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Run the app:
+
+    ```bash
+    npm run dev
+    ```
+
+## Thanks for checking out my project!
